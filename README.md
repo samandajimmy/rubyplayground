@@ -12,5 +12,7 @@
 - go to directory:
 	a. run "ruby factorials.rb" for factorials solution
 	b. run "ruby sorting.rb" for sorting solution
+	c. run "ruby rotation.rb" for matrix rotation solution
+- then follow the guidance
 ---
 
