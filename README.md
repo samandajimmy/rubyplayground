@@ -1,4 +1,4 @@
-# Cerberus #
+# RUBY PLAYGROUND #
 
 ---
 ## Prerequisites ##
